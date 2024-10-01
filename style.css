@@ -19,14 +19,14 @@ html,body{
 }
 
 .bg{
-    background: url('image/bg-2.png') no-repeat;
+    background: url('img/bg-2.png') no-repeat;
     background-size: cover;
     width: 100%;
     height: auto;
 }
 
 .bg2{
-    background: url('image/bg-4.png') no-repeat;
+    background: url('img/bg-4.png') no-repeat;
     background-size: cover;
     width: 100%;
     height: auto;
